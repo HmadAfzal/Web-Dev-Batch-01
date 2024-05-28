@@ -1,0 +1,15 @@
+# selectors
+
+universal selector (ie. "*")
+element selector (ie. <div>)
+class selector (ie. ".class")
+id selector (ie. "#id")
+child selector (ie. "<div> > <P>")
+Descendant selector (ie. "<div> <p> ")
+pseudo selector (ie. "a:visited a:active a:link, a:hover ")
+group selector (ie. "div, a, p")
+
+
+# box model
+# box sizing
+# margin collapse
