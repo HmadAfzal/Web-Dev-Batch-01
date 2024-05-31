@@ -42,7 +42,7 @@ Example:
     </style>
 </head>
 <body>
-    <p>CodeWithHarry</p>
+    <p>hello, world</p>
 </body>
 </html>
 ```
