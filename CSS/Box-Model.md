@@ -5,16 +5,16 @@ It describes the structure of an element as a rectangular box that has content, 
 
 The box model consists of four main components, which are
 
-- Content
+- Content:
 The innermost component of the box model is the actual content of the element. It can be text, image, video, etc.
 The content area is defined by the width and height properties.
-- Padding
+- Padding:
 The space between the actual content and the border of the element is the padding.
 The padding area is defined by the property padding. For more details, follow the CSS Padding tutorial.
-- Border
+- Border:
 The border surrounds the content and padding and gives the visual border of the element.
 The border properties can be controlled using the border keyword. For more details, follow the CSS Borders tutorial.
-- Margin
+- Margin:
 The margin is the space outside the element that separates it from other elements in the layout.
 The margin of the element is controlled by the margin property. For more details, follow the CSS Margin tutorial.
  
