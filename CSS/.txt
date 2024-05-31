@@ -13,3 +13,34 @@ group selector (ie. "div, a, p")
 # box model
 # box sizing
 # margin collapse
+
+
+#fonts
+- font style
+- font family 
+- font weight
+- font size
+- line height
+- letter spacing
+- text decoration
+- text decoration style
+- text align
+
+# colors
+
+# specificity
+
+
+#units
+px
+vw
+em 
+rem
+vmin
+vmax
+%
+
+display 
+inline 
+block
+visibility
