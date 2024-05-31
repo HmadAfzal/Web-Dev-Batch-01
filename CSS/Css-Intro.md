@@ -22,9 +22,7 @@ CSS operates by selecting HTML elements and applying styles to them. Styles dict
 selector {
     property: value;
 }
-    ```
-
-
+```
 
 # A Bit of History
 CSS was created by Håkon Wium Lie to enhance the visual aspects of websites. Initially, websites were mainly used by researchers and lacked visual appeal. As websites became more widespread, the need for better design grew.
