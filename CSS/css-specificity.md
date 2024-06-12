@@ -24,7 +24,7 @@ Let's consider the following code
 
 </head>
 <body>
-    <h1 id="title" class="h1" style="color:purple">CodeWithHarry</h1>
+    <h1 id="title" class="h1" style="color:purple">hello world</h1>
 </body>
 </html>
  
@@ -75,7 +75,7 @@ Inline styles have the highest specificity and will always override styles if ot
 
 </head>
 <body>
-    <h1 id="title" class="h1" style="color:purple">CodeWithHarry</h1>
+    <h1 id="title" class="h1" style="color:purple">hello world</h1>
 </body>
 </html>
 ```
@@ -102,7 +102,7 @@ The ID selector also has high specificity but comes after the inline Style speci
     </style>
 </head>
 <body>
-    <h1 id="title" class="h1">CodeWithHarry</h1>
+    <h1 id="title" class="h1">hello world</h1>
 </body>
 </html>
 ```
@@ -124,7 +124,7 @@ Class selectors and attribute selectors have moderate specificity. Suppose the e
 
 </head>
 <body>
-    <h1 class="h1">CodeWithHarry</h1>
+    <h1 class="h1">hello world</h1>
 </body>
 </html>
 ```
@@ -144,7 +144,7 @@ Element selectors like <p>, <div>, <a>, etc. have low specificity.
 
 </head>
 <body>
-    <h1 class="h1">CodeWithHarry</h1>
+    <h1 class="h1">hello world</h1>
 </body>
 </html>
 ```
@@ -161,7 +161,7 @@ Universal selectors (*) and combining selectors like not, first-child, and last-
 
 </head>
 <body>
-    <h1 class="h1">CodeWithHarry</h1>
+    <h1 class="h1">hello world</h1>
 </body>
 </html>
 ```

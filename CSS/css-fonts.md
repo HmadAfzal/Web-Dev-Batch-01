@@ -222,7 +222,7 @@ Example:
     </style>
 </head>
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <h2>Hello World</h2>
 </body>
 </html>

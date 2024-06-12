@@ -26,7 +26,7 @@ Example:
 
 <body>
     <p>Hello World</p>
-    <p>CodeWithHarry</p>
+    <p>hello world</p>
 </body>
 
 </html>
@@ -77,9 +77,9 @@ Example:
     </style>
 </head>
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <h2>A Developer</h2>
-    <h3>Founder CodeWithHarry.com</h3>
+    <h3>Founder hello world.com</h3>
     <h4>Hello World</h4>
 </body>
 </html>
@@ -117,9 +117,9 @@ Example:
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <h2>A Developer</h2>
-    <h3>CodeWithHarry.com founder</h3>
+    <h3>hello world.com founder</h3>
 </body>
 
 </html>
@@ -156,9 +156,9 @@ Example:
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <h2>A Developer</h2>
-    <h3>CodeWithHarry.com founder</h3>
+    <h3>hello world.com founder</h3>
 </body>
 
 </html>
@@ -199,7 +199,7 @@ Example:
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <p>A Developer</p>
 </body>
 
@@ -229,7 +229,7 @@ Example:
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <p>A Developer</p>
 </body>
 
