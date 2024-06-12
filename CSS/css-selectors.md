@@ -236,12 +236,12 @@ div, p, a {
         } */
 
         /* .boxes::before {
-            content: "Harry is good";
+            content: "i will appea before";
             color: blue;
         } */
 
         /* .boxes::after {
-            content: "Sigma course is also good";
+            content: "i will appear after";
             color: red;
         } */
 
