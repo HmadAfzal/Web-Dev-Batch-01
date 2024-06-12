@@ -38,7 +38,7 @@ The syntax of Universal Selector is as follows:
 
 <body>
     <p>Welcome to </p>
-    <h1>CodeWithHarry</h1>
+    <h1>my website</h1>
 </body>
 
 </html>
@@ -73,7 +73,7 @@ A selector can be any HTML tag. Here, we have considered the p tag.
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <h2>we offer: </h2>
     <p>Python Tutorials - 100 Days of Code</p>
     <p>Ultimate JavaScript Course</p>
@@ -110,8 +110,8 @@ The syntax of ID Selector is as follows:
 </head>
 
 <body>
-    <h1 id="title">CodeWithHarry</h1>
-    <p>I'm a Developer and the founder of CodeWithHarry.com</p>
+    <h1 id="title">hello world</h1>
+    <p>I'm a Developer</p>
 </body>
 
 </html>
@@ -188,7 +188,7 @@ div, p, a {
 </head>
 
 <body>
-    <h1>CodeWithHarry</h1>
+    <h1>hello world</h1>
     <p>This is the p tag</p>
     <a href="#">This is the anchor (a) tag</a>
 </body>
