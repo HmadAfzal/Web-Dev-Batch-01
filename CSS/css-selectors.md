@@ -223,10 +223,6 @@ div, p, a {
             border: 2px solid black;
         }
 
-        p, a, .box, [data-color="primary"]{
-            padding-top: 45px;
-        } */
-
         /* .box:nth-child(odd){
             background-color: blue;
         } */
