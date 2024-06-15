@@ -258,6 +258,11 @@ div, p, a {
         /* input::placeholder {
             color: rgb(84, 84, 88);
         } */
+
+         /* .box:hover{
+            background-color:red;
+         } */
+          
     </style>
 </head>
 
