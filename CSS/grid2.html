@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <style>
+    .container {
+      border: 2px solid black;
+      height: 80vh;
+      width: 80vw;
+      margin-left: 100px;
+      display: grid;
+      grid-template-areas: "nav nav nav" 
+                            "side main main"
+                            "footer footer footer";
+    }
+    .box1 {
+      height: 100px;
+      border: 2px solid red;
+      grid-area: nav;
+    }
+    .box2 {
+      height: 100px;
+   
+      border: 2px solid rgb(119, 119, 119);
+      grid-area: side;
+
+    }
+    .box3 {
+      height: 100px;
+      
+      border: 2px solid rgb(0, 255, 166);
+      grid-area: main;
+
+    }
+    .box4 {
+      height: 100px;
+      
+      border: 2px solid red;
+      grid-area: footer;
+    }
+
+    .box5 {
+      height: 100px;
+ 
+      border: 2px solid red;
+   
+    }
+  </style>
+  <body>
+    <div class="container">
+      <div class="box1">1</div>
+      <div class="box2">2</div>
+      <div class=" box3">3</div>
+      <div class="box box4">4</div>
+      <div class="box5">5</div>
+     
+    </div>
+  </body>
+</html>

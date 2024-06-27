@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <style>
+    .container {
+      border: 2px solid black;
+      height: 80vh;
+      width: 80vw;
+      display: grid;
+      margin-left: 100px;
+      /* grid-template-columns:repeat(3, 1fr); */
+      /* grid-template-columns: 1fr 2fr 1fr; */
+      /* grid-template-columns: 100px 100px 100px; */
+      /* gap: 30px; */
+      /* row-gap: 30px;
+      column-gap: 50px; */
+      justify-items: center;
+      align-items: center;
+    }
+    .box1 {
+      height: 100px;
+      width: 100px;
+      border: 2px solid red;
+    }
+    .box2 {
+      height: 100px;
+      width: 100px;
+      border: 2px solid rgb(119, 119, 119);
+      justify-self: center;
+      align-self: start;
+    
+    }
+    .box3 {
+      height: 100px;
+      width: 100px;
+      border: 2px solid rgb(0, 255, 166);
+
+    }
+    .box4 {
+      height: 100px;
+      width: 100px;
+      border: 2px solid red;
+    }
+
+    .box5 {
+      height: 100px;
+      width: 100px;
+      border: 2px solid red;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <div class="box1">1</div>
+      <div class="box2">2</div>
+      <div class=" box3">3</div>
+      <div class="box box4">4</div>
+      <div class="box5">5</div>
+    </div>
+  </body>
+</html>
